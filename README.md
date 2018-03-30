@@ -11,3 +11,4 @@ switch remote url to ssh
 git add, commit and push from shell
 edit in github
 2nd edit in github to pull from shell
+3rd edit in github to use pull shell command directly
