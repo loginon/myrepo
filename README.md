@@ -10,3 +10,4 @@ switch remote url to ssh
 2nd ssh from RStudio
 git add, commit and push from shell
 edit in github
+2nd edit in github to pull from shell
