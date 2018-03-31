@@ -1,7 +1,7 @@
 
 #' ---
 #' title: "R scripts can be rendered!"
-#' author: "Jenny Bryan"
+#' author: "John"
 #' date: "`r format(Sys.Date())`"
 #' output: github_document
 #' ---

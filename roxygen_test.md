@@ -1,6 +1,6 @@
 R scripts can be rendered!
 ================
-Jenny Bryan
+John
 2018-03-31
 
 sample row from cars

@@ -31,6 +31,13 @@ summary(cars)
 ##  Max.   :25.0   Max.   :120.00
 ```
 
+```r
+plot(dist ~ speed,data = cars)
+abline(lm(dist ~ speed, data = cars))
+```
+
+![](helloworld_files/figure-html/cars-1.png)<!-- -->
+
 ## Including Plots
 
 You can also embed plots, for example:

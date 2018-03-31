@@ -20,6 +20,9 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
+plot(dist ~ speed,data = cars)
+abline(lm(dist ~ speed, data = cars))
+
 ```
 
 ## Including Plots
