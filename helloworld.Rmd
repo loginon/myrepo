@@ -2,7 +2,9 @@
 title: "R Markdown test for Github"
 author: "john lu"
 date: "March 31, 2018"
-output: github_document
+output: 
+  html_document:
+    keep_md: true
   
 ---
 
